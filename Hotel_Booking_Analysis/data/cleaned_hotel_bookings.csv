@@ -1,0 +1,551 @@
+hotel,is_canceled,lead_time,arrival_date_year,arrival_date_month,arrival_date_day_of_month,country,market_segment,adr,total_guests,stays_in_week_nights,stays_in_weekend_nights,total_stay_nights,booking_status
+Resort Hotel,1,269,2018,November,8,BRA,Offline TA,178.54,2,5,3,8,Canceled
+City Hotel,1,113,2016,May,28,FRA,Corporate,175.99,1,5,3,8,Canceled
+City Hotel,1,32,2017,March,2,ESP,Offline TA,168.46,2,4,3,7,Canceled
+Resort Hotel,0,163,2016,February,1,ITA,Direct,202.97,2,1,3,4,Not Canceled
+Resort Hotel,0,70,2018,December,2,IND,Direct,92.19,1,1,2,3,Not Canceled
+City Hotel,0,79,2018,May,10,FRA,Corporate,174.89,2,5,0,5,Not Canceled
+Resort Hotel,0,20,2017,June,15,BRA,Online TA,109.98,5,4,3,7,Not Canceled
+Resort Hotel,1,230,2018,June,28,CAN,Direct,163.93,3,3,2,5,Canceled
+Resort Hotel,0,222,2018,October,21,AUS,Offline TA,53.69,2,4,2,6,Not Canceled
+Resort Hotel,1,173,2018,October,16,CAN,Corporate,102.22,4,6,3,9,Canceled
+City Hotel,0,217,2016,May,4,USA,Groups,224.18,2,5,0,5,Not Canceled
+Resort Hotel,0,188,2018,November,12,IND,Online TA,253.64,5,7,3,10,Not Canceled
+Resort Hotel,0,87,2016,December,15,DEU,Offline TA,255.82,1,5,2,7,Not Canceled
+City Hotel,1,177,2017,July,14,FRA,Online TA,215.43,5,3,1,4,Canceled
+Resort Hotel,0,47,2018,April,16,ITA,Corporate,227.65,2,1,2,3,Not Canceled
+City Hotel,0,299,2017,November,13,FRA,Online TA,211.17,3,7,0,7,Not Canceled
+Resort Hotel,0,108,2017,August,16,USA,Offline TA,205.76,3,3,1,4,Not Canceled
+City Hotel,1,221,2017,June,26,GBR,Online TA,218.79,3,2,3,5,Canceled
+Resort Hotel,0,40,2016,May,19,ESP,Online TA,161.05,1,4,2,6,Not Canceled
+City Hotel,0,164,2016,July,12,FRA,Direct,219.53,5,3,1,4,Not Canceled
+Resort Hotel,1,253,2016,July,25,CAN,Groups,270.14,3,2,3,5,Canceled
+Resort Hotel,1,216,2018,January,20,IND,Online TA,245.89,3,4,1,5,Canceled
+Resort Hotel,1,26,2016,December,25,GBR,Groups,220.56,1,3,3,6,Canceled
+City Hotel,1,264,2018,March,3,IND,Direct,124.95,4,6,1,7,Canceled
+Resort Hotel,0,286,2018,September,4,GBR,Online TA,217.48,1,4,3,7,Not Canceled
+City Hotel,0,75,2018,August,25,BRA,Online TA,61.24,4,7,3,10,Not Canceled
+City Hotel,1,213,2018,November,17,BRA,Offline TA,119.96,3,2,1,3,Canceled
+Resort Hotel,1,65,2017,February,9,BRA,Direct,225.21,2,7,0,7,Canceled
+Resort Hotel,0,78,2017,September,18,IND,Offline TA,132.4,3,4,1,5,Not Canceled
+Resort Hotel,0,129,2016,June,15,IND,Groups,88.85,1,5,3,8,Not Canceled
+Resort Hotel,0,38,2017,December,12,FRA,Online TA,298.58,5,1,1,2,Not Canceled
+Resort Hotel,1,168,2017,February,1,DEU,Direct,115.59,4,4,2,6,Canceled
+Resort Hotel,0,210,2016,August,15,ITA,Corporate,75.92,5,6,0,6,Not Canceled
+Resort Hotel,1,294,2016,September,11,AUS,Online TA,231.68,5,7,0,7,Canceled
+City Hotel,0,34,2017,February,25,BRA,Corporate,161.22,4,2,2,4,Not Canceled
+Resort Hotel,0,211,2016,November,3,GBR,Groups,62.73,1,5,1,6,Not Canceled
+City Hotel,1,94,2017,August,19,AUS,Offline TA,87.91,4,1,3,4,Canceled
+Resort Hotel,1,98,2016,September,25,BRA,Groups,175.61,4,5,1,6,Canceled
+Resort Hotel,0,79,2018,August,27,BRA,Groups,119.18,4,6,1,7,Not Canceled
+City Hotel,1,292,2017,July,5,USA,Direct,110.0,5,5,0,5,Canceled
+City Hotel,1,126,2017,September,9,GBR,Offline TA,198.47,4,6,3,9,Canceled
+Resort Hotel,1,66,2017,November,2,BRA,Corporate,65.97,4,2,0,2,Canceled
+City Hotel,1,172,2016,July,4,IND,Groups,132.83,1,1,3,4,Canceled
+Resort Hotel,0,22,2018,July,13,IND,Groups,83.92,4,3,3,6,Not Canceled
+City Hotel,1,203,2016,March,7,FRA,Groups,179.15,3,4,2,6,Canceled
+City Hotel,1,168,2016,July,28,BRA,Offline TA,158.44,5,6,1,7,Canceled
+City Hotel,0,30,2016,September,12,ESP,Groups,120.54,5,2,0,2,Not Canceled
+Resort Hotel,1,245,2018,May,27,USA,Groups,188.64,1,3,3,6,Canceled
+Resort Hotel,1,174,2018,November,23,FRA,Corporate,201.72,1,1,2,3,Canceled
+City Hotel,0,199,2017,February,25,IND,Corporate,235.58,3,5,3,8,Not Canceled
+City Hotel,1,110,2016,August,27,AUS,Direct,134.74,4,7,3,10,Canceled
+Resort Hotel,0,230,2017,June,23,FRA,Groups,149.1,3,4,3,7,Not Canceled
+Resort Hotel,0,76,2017,July,21,CAN,Online TA,251.09,1,4,1,5,Not Canceled
+Resort Hotel,0,184,2017,February,15,ITA,Offline TA,79.47,1,5,1,6,Not Canceled
+City Hotel,0,228,2017,February,23,CAN,Groups,282.36,2,3,0,3,Not Canceled
+Resort Hotel,1,120,2016,November,24,GBR,Groups,157.21,2,5,3,8,Canceled
+Resort Hotel,0,131,2017,August,14,ITA,Direct,289.02,1,4,1,5,Not Canceled
+City Hotel,1,224,2018,August,17,FRA,Direct,256.56,5,3,1,4,Canceled
+Resort Hotel,0,295,2016,October,19,ESP,Groups,61.52,1,3,2,5,Not Canceled
+City Hotel,1,130,2018,December,18,BRA,Groups,184.85,2,7,3,10,Canceled
+Resort Hotel,0,237,2018,June,17,IND,Offline TA,151.79,2,5,3,8,Not Canceled
+Resort Hotel,1,195,2017,November,6,AUS,Corporate,144.11,2,1,1,2,Canceled
+City Hotel,0,197,2017,April,24,USA,Online TA,264.95,1,6,3,9,Not Canceled
+City Hotel,1,169,2018,August,3,FRA,Direct,160.73,4,1,3,4,Canceled
+City Hotel,0,70,2016,April,6,ESP,Corporate,263.2,5,1,0,1,Not Canceled
+City Hotel,1,105,2017,February,21,ITA,Corporate,274.6,5,4,1,5,Canceled
+Resort Hotel,1,102,2018,October,10,BRA,Direct,51.68,4,6,3,9,Canceled
+City Hotel,1,167,2018,April,5,FRA,Corporate,194.98,1,7,1,8,Canceled
+City Hotel,0,18,2017,November,10,DEU,Direct,189.33,1,1,1,2,Not Canceled
+Resort Hotel,1,268,2018,January,22,BRA,Corporate,239.29,2,5,1,6,Canceled
+City Hotel,0,84,2018,November,3,CAN,Corporate,167.94,5,1,1,2,Not Canceled
+City Hotel,1,227,2016,April,6,AUS,Offline TA,88.28,2,7,2,9,Canceled
+City Hotel,1,199,2017,October,2,CAN,Offline TA,171.21,4,2,1,3,Canceled
+City Hotel,1,30,2018,May,28,GBR,Offline TA,238.84,4,4,1,5,Canceled
+City Hotel,0,115,2016,May,15,ESP,Groups,246.74,1,2,3,5,Not Canceled
+Resort Hotel,1,99,2017,August,10,BRA,Corporate,226.01,5,2,3,5,Canceled
+Resort Hotel,0,221,2017,May,3,GBR,Groups,160.56,4,4,2,6,Not Canceled
+City Hotel,1,107,2018,October,4,DEU,Groups,104.99,1,5,1,6,Canceled
+City Hotel,0,253,2018,August,9,USA,Offline TA,59.76,4,1,1,2,Not Canceled
+Resort Hotel,1,211,2018,April,11,CAN,Offline TA,228.58,3,4,1,5,Canceled
+Resort Hotel,0,211,2016,November,21,USA,Corporate,157.91,5,1,0,1,Not Canceled
+Resort Hotel,1,290,2017,May,20,BRA,Offline TA,154.51,4,6,1,7,Canceled
+City Hotel,0,217,2017,December,7,IND,Direct,178.23,1,5,0,5,Not Canceled
+City Hotel,0,166,2018,August,23,FRA,Groups,151.2,3,5,2,7,Not Canceled
+City Hotel,1,18,2016,June,8,BRA,Online TA,296.88,4,7,0,7,Canceled
+City Hotel,0,230,2016,March,7,ESP,Offline TA,62.58,3,4,1,5,Not Canceled
+Resort Hotel,1,284,2017,January,18,ESP,Corporate,76.32,5,5,2,7,Canceled
+City Hotel,1,133,2016,March,8,CAN,Corporate,244.7,3,3,0,3,Canceled
+City Hotel,1,64,2016,January,11,USA,Groups,113.74,3,5,1,6,Canceled
+City Hotel,0,79,2017,December,2,AUS,Offline TA,89.77,2,3,3,6,Not Canceled
+City Hotel,0,70,2018,July,22,BRA,Offline TA,158.89,2,3,2,5,Not Canceled
+Resort Hotel,0,19,2018,June,9,BRA,Direct,299.67,2,4,2,6,Not Canceled
+Resort Hotel,0,34,2018,July,15,AUS,Direct,164.57,1,4,0,4,Not Canceled
+City Hotel,1,104,2017,July,23,DEU,Offline TA,243.28,3,5,1,6,Canceled
+Resort Hotel,0,248,2016,February,21,AUS,Online TA,180.54,1,5,3,8,Not Canceled
+Resort Hotel,1,227,2018,February,16,FRA,Direct,224.32,3,4,3,7,Canceled
+City Hotel,0,129,2016,February,22,BRA,Groups,177.68,4,1,0,1,Not Canceled
+Resort Hotel,0,262,2018,January,19,CAN,Online TA,221.14,1,4,0,4,Not Canceled
+Resort Hotel,1,194,2018,August,6,AUS,Corporate,265.24,5,5,1,6,Canceled
+City Hotel,0,209,2017,April,14,IND,Groups,100.95,4,6,3,9,Not Canceled
+Resort Hotel,1,240,2016,January,21,CAN,Online TA,223.21,2,4,2,6,Canceled
+City Hotel,1,268,2016,June,27,IND,Online TA,286.05,2,5,0,5,Canceled
+Resort Hotel,0,6,2016,October,20,GBR,Online TA,89.43,5,4,0,4,Not Canceled
+Resort Hotel,0,131,2016,October,23,IND,Groups,161.06,3,2,0,2,Not Canceled
+Resort Hotel,1,87,2017,November,18,ESP,Online TA,96.58,5,6,2,8,Canceled
+Resort Hotel,0,118,2017,September,23,IND,Online TA,179.57,4,7,0,7,Not Canceled
+Resort Hotel,1,154,2016,July,8,CAN,Corporate,235.35,5,2,2,4,Canceled
+Resort Hotel,0,168,2016,September,5,CAN,Offline TA,61.06,5,7,2,9,Not Canceled
+City Hotel,1,175,2016,October,16,ITA,Corporate,284.91,3,6,0,6,Canceled
+Resort Hotel,0,205,2017,November,7,CAN,Groups,256.28,5,5,2,7,Not Canceled
+City Hotel,1,45,2018,November,15,ITA,Offline TA,101.21,1,2,1,3,Canceled
+Resort Hotel,0,286,2017,September,4,ITA,Groups,191.34,4,5,2,7,Not Canceled
+Resort Hotel,1,161,2017,January,4,BRA,Direct,178.6,5,4,1,5,Canceled
+City Hotel,0,37,2018,February,23,GBR,Online TA,206.11,2,1,2,3,Not Canceled
+City Hotel,0,157,2017,March,24,ITA,Online TA,77.15,5,2,3,5,Not Canceled
+City Hotel,1,63,2016,October,20,DEU,Groups,71.58,5,3,3,6,Canceled
+City Hotel,0,16,2016,January,13,GBR,Groups,239.2,2,4,3,7,Not Canceled
+City Hotel,1,158,2016,October,6,BRA,Direct,238.63,2,2,0,2,Canceled
+Resort Hotel,0,278,2018,August,23,IND,Online TA,156.61,4,1,3,4,Not Canceled
+Resort Hotel,1,254,2016,August,18,FRA,Offline TA,274.04,3,5,2,7,Canceled
+City Hotel,1,154,2016,September,1,DEU,Corporate,198.92,3,4,1,5,Canceled
+City Hotel,1,179,2016,January,24,ITA,Online TA,111.8,2,6,0,6,Canceled
+Resort Hotel,1,47,2016,September,14,IND,Groups,203.55,5,1,2,3,Canceled
+City Hotel,0,78,2017,May,16,CAN,Offline TA,114.38,4,6,1,7,Not Canceled
+Resort Hotel,1,205,2018,November,2,CAN,Corporate,179.62,1,2,0,2,Canceled
+City Hotel,0,39,2016,August,23,FRA,Direct,243.34,5,2,0,2,Not Canceled
+Resort Hotel,0,149,2016,June,2,ESP,Direct,121.31,3,6,0,6,Not Canceled
+Resort Hotel,1,278,2016,July,10,BRA,Online TA,214.05,2,4,3,7,Canceled
+Resort Hotel,0,144,2016,March,19,FRA,Offline TA,231.48,3,2,1,3,Not Canceled
+City Hotel,0,246,2017,November,7,DEU,Online TA,190.26,3,5,1,6,Not Canceled
+City Hotel,1,298,2016,May,10,IND,Direct,283.24,2,4,2,6,Canceled
+City Hotel,0,158,2016,March,10,DEU,Direct,134.57,2,7,1,8,Not Canceled
+Resort Hotel,1,96,2016,April,19,DEU,Offline TA,144.32,5,2,1,3,Canceled
+City Hotel,1,16,2018,April,3,BRA,Groups,81.53,1,6,1,7,Canceled
+Resort Hotel,0,82,2018,August,5,AUS,Online TA,272.95,5,4,3,7,Not Canceled
+Resort Hotel,0,268,2016,July,28,BRA,Groups,89.29,1,6,0,6,Not Canceled
+Resort Hotel,1,136,2017,July,24,GBR,Corporate,231.63,5,6,1,7,Canceled
+City Hotel,1,267,2018,December,8,GBR,Groups,81.38,5,1,0,1,Canceled
+City Hotel,1,298,2016,December,21,AUS,Direct,280.98,5,6,0,6,Canceled
+City Hotel,0,11,2018,October,15,ITA,Online TA,242.54,5,7,0,7,Not Canceled
+Resort Hotel,1,67,2016,November,23,GBR,Offline TA,100.11,5,3,3,6,Canceled
+Resort Hotel,1,211,2017,July,13,FRA,Online TA,213.55,5,3,0,3,Canceled
+City Hotel,0,173,2016,August,24,GBR,Corporate,101.78,1,5,1,6,Not Canceled
+City Hotel,0,132,2017,December,20,BRA,Corporate,161.13,4,3,0,3,Not Canceled
+Resort Hotel,0,47,2016,November,26,BRA,Direct,162.83,5,1,2,3,Not Canceled
+City Hotel,1,24,2018,August,21,AUS,Corporate,133.81,1,7,0,7,Canceled
+Resort Hotel,1,168,2017,February,26,ITA,Online TA,57.59,4,2,1,3,Canceled
+Resort Hotel,1,223,2017,September,26,GBR,Online TA,216.86,5,7,1,8,Canceled
+City Hotel,1,164,2018,September,10,IND,Online TA,269.49,2,5,1,6,Canceled
+Resort Hotel,1,80,2017,May,4,GBR,Offline TA,51.21,5,4,2,6,Canceled
+Resort Hotel,1,124,2016,September,25,ESP,Online TA,76.23,4,3,3,6,Canceled
+City Hotel,0,293,2017,June,20,BRA,Online TA,137.55,2,4,2,6,Not Canceled
+City Hotel,0,52,2018,June,2,FRA,Online TA,67.48,2,2,2,4,Not Canceled
+City Hotel,1,201,2017,December,21,BRA,Online TA,238.23,1,4,0,4,Canceled
+Resort Hotel,0,240,2016,November,3,IND,Groups,173.93,3,2,1,3,Not Canceled
+City Hotel,0,293,2018,May,28,BRA,Groups,249.22,3,6,0,6,Not Canceled
+Resort Hotel,1,82,2016,May,1,AUS,Online TA,122.72,4,4,3,7,Canceled
+City Hotel,0,36,2018,May,9,ESP,Offline TA,119.74,2,4,0,4,Not Canceled
+City Hotel,1,111,2016,September,5,FRA,Direct,275.8,5,5,0,5,Canceled
+Resort Hotel,1,7,2016,September,25,AUS,Corporate,246.1,5,2,0,2,Canceled
+City Hotel,1,93,2016,August,4,AUS,Corporate,228.17,4,3,2,5,Canceled
+Resort Hotel,0,300,2016,December,28,USA,Direct,117.61,3,4,3,7,Not Canceled
+Resort Hotel,0,40,2018,May,27,USA,Offline TA,265.63,3,2,1,3,Not Canceled
+City Hotel,0,143,2016,January,2,FRA,Online TA,206.03,3,3,0,3,Not Canceled
+City Hotel,1,120,2018,November,8,AUS,Direct,158.02,4,2,2,4,Canceled
+City Hotel,0,229,2016,November,23,GBR,Groups,56.21,3,1,2,3,Not Canceled
+Resort Hotel,0,242,2017,October,7,USA,Corporate,69.11,2,7,3,10,Not Canceled
+City Hotel,0,291,2017,September,22,ESP,Direct,250.63,4,3,1,4,Not Canceled
+Resort Hotel,0,278,2018,November,18,FRA,Groups,148.3,3,7,3,10,Not Canceled
+Resort Hotel,1,285,2018,June,15,USA,Direct,275.27,3,3,3,6,Canceled
+Resort Hotel,1,35,2017,March,11,BRA,Groups,57.67,5,5,3,8,Canceled
+Resort Hotel,1,255,2017,April,2,GBR,Online TA,249.36,3,7,3,10,Canceled
+Resort Hotel,0,266,2016,April,20,FRA,Groups,191.11,2,7,2,9,Not Canceled
+Resort Hotel,1,155,2016,August,27,GBR,Groups,122.34,5,1,2,3,Canceled
+City Hotel,0,47,2016,March,5,CAN,Corporate,167.09,2,5,1,6,Not Canceled
+Resort Hotel,0,241,2016,June,19,FRA,Offline TA,207.04,2,4,3,7,Not Canceled
+City Hotel,0,24,2018,February,4,FRA,Groups,181.61,5,7,2,9,Not Canceled
+Resort Hotel,1,43,2018,November,12,DEU,Corporate,69.77,4,5,1,6,Canceled
+Resort Hotel,0,203,2017,March,26,BRA,Groups,168.93,3,6,2,8,Not Canceled
+Resort Hotel,1,208,2018,August,16,ITA,Groups,188.87,5,3,2,5,Canceled
+Resort Hotel,1,147,2018,May,9,BRA,Online TA,144.36,2,5,1,6,Canceled
+City Hotel,1,282,2017,October,5,ITA,Corporate,107.32,5,5,3,8,Canceled
+City Hotel,1,194,2018,May,16,IND,Corporate,70.82,1,3,2,5,Canceled
+Resort Hotel,1,80,2017,December,5,FRA,Corporate,92.97,4,4,0,4,Canceled
+Resort Hotel,0,242,2018,March,6,CAN,Groups,171.51,4,2,2,4,Not Canceled
+City Hotel,0,228,2018,May,21,AUS,Direct,247.22,3,6,1,7,Not Canceled
+Resort Hotel,0,245,2017,February,6,ITA,Direct,283.26,2,1,3,4,Not Canceled
+Resort Hotel,0,132,2018,November,1,FRA,Direct,137.55,1,5,3,8,Not Canceled
+City Hotel,1,113,2017,May,17,DEU,Offline TA,217.34,4,2,0,2,Canceled
+City Hotel,0,162,2017,August,4,DEU,Groups,170.58,2,5,0,5,Not Canceled
+City Hotel,1,119,2018,March,28,IND,Online TA,275.87,3,6,1,7,Canceled
+City Hotel,1,80,2018,September,21,AUS,Offline TA,228.99,4,3,2,5,Canceled
+City Hotel,1,36,2017,January,27,CAN,Offline TA,226.93,2,1,0,1,Canceled
+Resort Hotel,1,25,2018,March,18,BRA,Online TA,92.22,2,4,2,6,Canceled
+Resort Hotel,1,48,2017,May,6,ITA,Direct,243.94,1,7,1,8,Canceled
+Resort Hotel,1,26,2016,May,17,AUS,Offline TA,286.28,3,2,3,5,Canceled
+Resort Hotel,1,16,2018,September,10,GBR,Online TA,250.9,5,2,0,2,Canceled
+Resort Hotel,0,183,2016,August,6,AUS,Direct,76.53,3,2,1,3,Not Canceled
+City Hotel,0,100,2018,August,17,IND,Direct,120.88,1,2,2,4,Not Canceled
+City Hotel,0,168,2016,June,8,GBR,Corporate,223.89,2,6,0,6,Not Canceled
+Resort Hotel,0,221,2016,December,13,AUS,Offline TA,156.31,2,6,3,9,Not Canceled
+Resort Hotel,0,6,2018,November,19,IND,Offline TA,252.76,5,5,0,5,Not Canceled
+Resort Hotel,0,158,2017,September,9,BRA,Online TA,134.23,2,6,2,8,Not Canceled
+City Hotel,1,135,2016,September,15,BRA,Offline TA,189.9,1,4,2,6,Canceled
+City Hotel,0,251,2018,November,15,CAN,Online TA,118.3,1,2,2,4,Not Canceled
+Resort Hotel,0,121,2017,November,5,ESP,Offline TA,298.76,2,4,3,7,Not Canceled
+Resort Hotel,1,72,2018,November,25,CAN,Offline TA,198.06,1,7,1,8,Canceled
+Resort Hotel,1,135,2017,March,28,DEU,Groups,149.89,2,2,2,4,Canceled
+City Hotel,1,14,2017,February,1,GBR,Groups,224.47,4,4,3,7,Canceled
+City Hotel,0,173,2016,November,27,ITA,Offline TA,93.41,2,1,0,1,Not Canceled
+City Hotel,1,209,2017,December,5,FRA,Corporate,279.43,1,5,2,7,Canceled
+City Hotel,1,256,2017,June,6,DEU,Direct,268.86,5,3,1,4,Canceled
+Resort Hotel,0,77,2017,October,5,FRA,Offline TA,190.08,5,2,1,3,Not Canceled
+Resort Hotel,1,87,2017,November,26,FRA,Groups,142.11,4,3,0,3,Canceled
+Resort Hotel,1,277,2016,August,4,BRA,Groups,240.35,5,1,3,4,Canceled
+City Hotel,0,117,2016,September,8,IND,Corporate,154.09,2,3,1,4,Not Canceled
+City Hotel,0,13,2017,December,28,ITA,Groups,283.85,4,7,1,8,Not Canceled
+City Hotel,1,75,2016,May,21,CAN,Online TA,155.75,5,4,3,7,Canceled
+City Hotel,0,243,2016,January,22,ITA,Corporate,190.07,5,7,3,10,Not Canceled
+City Hotel,1,252,2018,May,5,ITA,Direct,210.09,1,3,0,3,Canceled
+Resort Hotel,0,132,2017,August,9,DEU,Offline TA,275.06,2,4,2,6,Not Canceled
+Resort Hotel,0,283,2016,May,19,IND,Offline TA,246.13,5,3,1,4,Not Canceled
+Resort Hotel,0,133,2017,March,3,BRA,Online TA,192.48,2,2,0,2,Not Canceled
+Resort Hotel,0,190,2016,August,27,AUS,Corporate,209.52,3,4,3,7,Not Canceled
+City Hotel,1,107,2016,February,27,DEU,Direct,191.21,2,2,3,5,Canceled
+City Hotel,0,74,2018,October,11,AUS,Offline TA,127.61,1,3,1,4,Not Canceled
+Resort Hotel,1,267,2018,July,14,ITA,Direct,218.01,2,3,0,3,Canceled
+Resort Hotel,1,228,2017,January,27,USA,Corporate,256.25,1,4,3,7,Canceled
+City Hotel,1,115,2017,September,15,IND,Groups,166.12,4,3,3,6,Canceled
+Resort Hotel,0,37,2017,November,8,DEU,Offline TA,100.31,2,3,0,3,Not Canceled
+City Hotel,0,157,2018,March,1,USA,Offline TA,58.71,4,6,2,8,Not Canceled
+City Hotel,0,191,2016,November,3,CAN,Offline TA,161.59,4,3,1,4,Not Canceled
+City Hotel,0,63,2016,June,11,CAN,Direct,50.09,2,4,3,7,Not Canceled
+City Hotel,0,39,2016,May,20,CAN,Offline TA,70.1,5,6,1,7,Not Canceled
+Resort Hotel,1,224,2016,December,1,AUS,Corporate,226.87,3,3,0,3,Canceled
+City Hotel,0,83,2017,October,25,DEU,Offline TA,227.08,3,4,3,7,Not Canceled
+Resort Hotel,1,165,2017,December,8,ITA,Offline TA,218.13,1,5,1,6,Canceled
+Resort Hotel,1,138,2017,May,24,USA,Offline TA,185.99,2,2,3,5,Canceled
+City Hotel,0,69,2017,November,10,AUS,Direct,203.85,5,5,0,5,Not Canceled
+City Hotel,1,289,2017,December,9,CAN,Offline TA,136.16,3,5,3,8,Canceled
+City Hotel,0,49,2017,January,7,GBR,Online TA,250.35,5,4,1,5,Not Canceled
+City Hotel,0,188,2018,November,3,CAN,Groups,148.23,2,3,1,4,Not Canceled
+Resort Hotel,1,48,2016,September,25,ESP,Direct,88.94,3,4,1,5,Canceled
+City Hotel,0,236,2018,December,2,CAN,Corporate,246.36,5,1,3,4,Not Canceled
+Resort Hotel,1,245,2017,May,26,FRA,Groups,265.86,3,4,2,6,Canceled
+City Hotel,0,113,2017,April,8,ESP,Corporate,55.79,2,5,0,5,Not Canceled
+City Hotel,0,135,2018,March,3,BRA,Online TA,124.27,3,1,0,1,Not Canceled
+City Hotel,1,251,2018,June,13,AUS,Online TA,248.7,3,7,3,10,Canceled
+City Hotel,0,185,2018,August,8,USA,Offline TA,135.15,5,3,0,3,Not Canceled
+Resort Hotel,0,145,2016,October,26,AUS,Corporate,243.6,2,4,2,6,Not Canceled
+Resort Hotel,0,133,2017,September,18,ESP,Offline TA,163.5,4,1,3,4,Not Canceled
+Resort Hotel,1,163,2016,October,1,CAN,Offline TA,258.15,2,6,1,7,Canceled
+City Hotel,1,94,2016,April,27,AUS,Online TA,203.74,2,3,2,5,Canceled
+Resort Hotel,1,179,2018,August,25,GBR,Groups,295.25,3,4,3,7,Canceled
+Resort Hotel,1,136,2018,January,13,GBR,Offline TA,192.62,4,4,2,6,Canceled
+City Hotel,1,64,2017,June,10,AUS,Direct,61.63,4,1,2,3,Canceled
+City Hotel,0,171,2018,August,3,DEU,Corporate,152.54,3,3,2,5,Not Canceled
+Resort Hotel,0,215,2018,June,12,AUS,Corporate,266.57,2,7,2,9,Not Canceled
+City Hotel,0,137,2016,May,19,CAN,Direct,175.88,1,7,2,9,Not Canceled
+City Hotel,1,15,2016,December,12,CAN,Online TA,69.9,3,7,1,8,Canceled
+Resort Hotel,1,240,2018,May,9,GBR,Groups,63.67,4,3,2,5,Canceled
+Resort Hotel,1,126,2017,December,23,ESP,Direct,166.39,1,1,2,3,Canceled
+Resort Hotel,0,103,2018,June,23,USA,Direct,236.11,4,6,0,6,Not Canceled
+Resort Hotel,1,231,2018,June,12,ESP,Offline TA,82.1,3,2,0,2,Canceled
+City Hotel,1,111,2018,April,16,CAN,Offline TA,86.19,2,7,1,8,Canceled
+City Hotel,0,241,2017,March,8,DEU,Groups,225.31,1,2,0,2,Not Canceled
+City Hotel,1,76,2017,February,27,IND,Corporate,224.41,1,6,1,7,Canceled
+City Hotel,0,257,2017,December,22,CAN,Groups,261.58,5,3,2,5,Not Canceled
+Resort Hotel,1,128,2016,July,11,USA,Direct,235.25,3,6,2,8,Canceled
+City Hotel,0,38,2018,May,11,GBR,Online TA,234.8,4,1,1,2,Not Canceled
+City Hotel,1,219,2016,February,27,AUS,Corporate,205.62,4,4,2,6,Canceled
+City Hotel,1,294,2016,January,4,USA,Offline TA,108.46,2,2,2,4,Canceled
+City Hotel,1,124,2016,June,1,ITA,Online TA,197.87,5,2,0,2,Canceled
+Resort Hotel,0,51,2016,November,23,ITA,Online TA,188.2,2,4,1,5,Not Canceled
+City Hotel,1,253,2017,May,15,AUS,Groups,283.68,2,7,3,10,Canceled
+Resort Hotel,1,245,2018,July,28,CAN,Offline TA,250.74,1,1,1,2,Canceled
+Resort Hotel,0,116,2016,November,22,ESP,Corporate,295.36,5,7,0,7,Not Canceled
+City Hotel,1,123,2018,July,24,DEU,Online TA,65.51,1,1,1,2,Canceled
+City Hotel,1,247,2017,September,23,DEU,Direct,75.54,5,4,0,4,Canceled
+Resort Hotel,0,174,2016,April,13,ITA,Offline TA,209.33,2,2,2,4,Not Canceled
+City Hotel,1,265,2016,May,7,ESP,Direct,120.92,5,6,3,9,Canceled
+City Hotel,0,280,2016,January,1,GBR,Corporate,181.89,1,7,3,10,Not Canceled
+City Hotel,1,20,2016,December,2,GBR,Online TA,252.58,4,7,3,10,Canceled
+City Hotel,1,14,2018,July,3,GBR,Online TA,264.71,5,2,2,4,Canceled
+Resort Hotel,1,42,2017,September,15,USA,Offline TA,223.13,1,4,2,6,Canceled
+Resort Hotel,0,284,2018,May,25,USA,Offline TA,191.03,1,7,2,9,Not Canceled
+Resort Hotel,0,5,2018,May,13,USA,Direct,263.34,4,2,2,4,Not Canceled
+City Hotel,0,55,2016,September,2,IND,Groups,258.26,3,3,1,4,Not Canceled
+Resort Hotel,0,160,2017,July,19,ITA,Corporate,149.88,5,1,2,3,Not Canceled
+Resort Hotel,1,51,2018,November,27,BRA,Offline TA,122.27,4,3,3,6,Canceled
+Resort Hotel,1,161,2017,February,11,GBR,Groups,147.73,2,1,2,3,Canceled
+Resort Hotel,1,78,2016,February,27,IND,Direct,145.13,1,5,1,6,Canceled
+City Hotel,1,111,2017,December,6,BRA,Direct,183.87,4,4,1,5,Canceled
+Resort Hotel,1,160,2016,November,12,DEU,Groups,245.31,5,7,0,7,Canceled
+Resort Hotel,1,64,2017,March,15,IND,Offline TA,125.24,1,4,0,4,Canceled
+Resort Hotel,1,178,2016,March,26,CAN,Online TA,263.31,4,2,2,4,Canceled
+City Hotel,1,195,2016,August,23,DEU,Groups,299.27,2,7,2,9,Canceled
+Resort Hotel,0,206,2016,June,25,FRA,Direct,262.14,5,3,2,5,Not Canceled
+Resort Hotel,1,126,2017,August,7,IND,Corporate,69.85,3,7,1,8,Canceled
+Resort Hotel,0,286,2018,September,7,AUS,Groups,208.33,3,2,1,3,Not Canceled
+Resort Hotel,0,208,2017,August,3,USA,Direct,116.05,3,2,2,4,Not Canceled
+City Hotel,0,187,2016,September,27,IND,Online TA,126.63,4,5,0,5,Not Canceled
+City Hotel,0,145,2016,April,24,FRA,Offline TA,95.33,3,7,0,7,Not Canceled
+Resort Hotel,0,37,2016,October,10,CAN,Direct,191.3,2,3,0,3,Not Canceled
+City Hotel,0,271,2018,October,1,USA,Online TA,114.8,1,5,1,6,Not Canceled
+City Hotel,1,49,2016,September,9,CAN,Offline TA,274.29,5,4,1,5,Canceled
+Resort Hotel,0,107,2016,October,4,ITA,Corporate,56.25,3,6,0,6,Not Canceled
+City Hotel,1,19,2017,October,17,CAN,Groups,208.43,1,3,1,4,Canceled
+City Hotel,1,197,2018,May,19,DEU,Groups,208.4,4,5,1,6,Canceled
+Resort Hotel,0,134,2016,August,17,ESP,Groups,251.7,1,1,1,2,Not Canceled
+Resort Hotel,1,101,2016,March,7,FRA,Groups,226.85,1,7,2,9,Canceled
+City Hotel,1,247,2017,July,8,GBR,Online TA,88.61,5,6,2,8,Canceled
+City Hotel,1,262,2018,February,22,FRA,Groups,91.57,3,7,3,10,Canceled
+Resort Hotel,1,106,2018,March,8,ITA,Corporate,290.69,4,5,0,5,Canceled
+Resort Hotel,0,75,2017,January,3,BRA,Online TA,282.67,1,5,1,6,Not Canceled
+City Hotel,1,120,2016,October,7,BRA,Offline TA,109.17,3,5,0,5,Canceled
+City Hotel,0,287,2016,December,15,AUS,Corporate,295.59,3,7,3,10,Not Canceled
+Resort Hotel,1,143,2018,September,20,USA,Groups,151.09,3,4,3,7,Canceled
+Resort Hotel,0,226,2017,July,5,IND,Direct,244.52,5,3,2,5,Not Canceled
+City Hotel,0,210,2016,July,19,AUS,Groups,73.94,4,5,2,7,Not Canceled
+Resort Hotel,0,229,2017,February,11,IND,Corporate,179.59,5,6,3,9,Not Canceled
+City Hotel,1,204,2017,March,2,AUS,Groups,245.18,4,2,2,4,Canceled
+Resort Hotel,1,141,2017,August,24,IND,Groups,166.43,3,3,0,3,Canceled
+City Hotel,0,32,2016,November,21,GBR,Corporate,192.69,4,3,0,3,Not Canceled
+City Hotel,0,111,2017,August,25,GBR,Offline TA,79.16,2,2,0,2,Not Canceled
+Resort Hotel,1,288,2017,January,12,FRA,Offline TA,278.96,3,3,1,4,Canceled
+City Hotel,1,299,2018,April,26,BRA,Online TA,172.63,2,1,2,3,Canceled
+Resort Hotel,1,89,2018,October,9,GBR,Online TA,230.87,1,5,3,8,Canceled
+City Hotel,1,16,2017,February,10,CAN,Direct,90.11,2,7,1,8,Canceled
+Resort Hotel,0,97,2016,August,7,AUS,Groups,77.39,5,3,2,5,Not Canceled
+City Hotel,1,195,2017,November,21,DEU,Offline TA,148.85,2,3,1,4,Canceled
+Resort Hotel,1,83,2016,September,24,ESP,Online TA,91.44,4,5,0,5,Canceled
+City Hotel,1,32,2017,December,15,CAN,Offline TA,122.69,5,1,3,4,Canceled
+City Hotel,1,217,2018,August,1,GBR,Groups,244.53,5,7,2,9,Canceled
+Resort Hotel,1,35,2018,March,26,GBR,Groups,247.47,1,7,3,10,Canceled
+Resort Hotel,1,241,2018,August,6,USA,Online TA,278.17,5,5,1,6,Canceled
+City Hotel,1,157,2016,February,26,IND,Online TA,277.17,3,5,0,5,Canceled
+Resort Hotel,1,200,2018,February,24,DEU,Online TA,251.47,2,1,3,4,Canceled
+City Hotel,0,93,2017,March,8,FRA,Offline TA,188.0,5,7,1,8,Not Canceled
+Resort Hotel,1,272,2016,March,10,ITA,Online TA,102.97,4,5,3,8,Canceled
+Resort Hotel,1,224,2018,December,8,BRA,Groups,165.36,4,5,0,5,Canceled
+City Hotel,1,186,2018,March,3,IND,Online TA,135.07,5,4,2,6,Canceled
+Resort Hotel,1,194,2017,May,6,IND,Corporate,248.12,1,1,3,4,Canceled
+Resort Hotel,0,111,2017,December,20,ESP,Groups,159.56,4,5,0,5,Not Canceled
+City Hotel,0,89,2018,June,21,FRA,Groups,178.03,4,7,3,10,Not Canceled
+City Hotel,1,135,2016,January,20,IND,Online TA,292.86,1,3,0,3,Canceled
+Resort Hotel,0,207,2017,November,28,CAN,Offline TA,245.47,1,4,3,7,Not Canceled
+Resort Hotel,0,279,2016,December,24,GBR,Offline TA,211.1,3,6,3,9,Not Canceled
+City Hotel,1,160,2017,January,1,DEU,Corporate,257.31,3,5,0,5,Canceled
+City Hotel,0,81,2017,March,22,BRA,Offline TA,251.27,1,5,0,5,Not Canceled
+City Hotel,0,23,2018,May,2,IND,Corporate,165.3,2,2,0,2,Not Canceled
+Resort Hotel,1,134,2018,July,13,IND,Offline TA,66.98,4,6,1,7,Canceled
+Resort Hotel,1,210,2016,September,19,FRA,Groups,266.37,2,4,2,6,Canceled
+City Hotel,0,62,2018,March,23,FRA,Corporate,278.43,3,3,1,4,Not Canceled
+City Hotel,0,286,2018,January,26,GBR,Offline TA,150.94,4,4,2,6,Not Canceled
+Resort Hotel,0,42,2018,June,15,DEU,Online TA,101.4,3,7,1,8,Not Canceled
+City Hotel,0,125,2016,July,10,CAN,Groups,297.85,4,5,2,7,Not Canceled
+Resort Hotel,0,7,2017,May,21,USA,Online TA,153.38,5,3,3,6,Not Canceled
+Resort Hotel,1,72,2018,August,15,BRA,Direct,195.85,5,1,2,3,Canceled
+City Hotel,0,252,2018,October,6,USA,Direct,225.48,4,7,2,9,Not Canceled
+City Hotel,0,255,2018,November,21,GBR,Corporate,298.12,3,2,0,2,Not Canceled
+Resort Hotel,0,226,2016,May,22,ESP,Corporate,204.63,5,6,2,8,Not Canceled
+City Hotel,1,133,2017,May,23,CAN,Offline TA,241.6,1,1,2,3,Canceled
+City Hotel,0,107,2016,August,14,ITA,Corporate,282.54,1,1,2,3,Not Canceled
+Resort Hotel,1,151,2017,November,14,AUS,Corporate,102.3,4,2,0,2,Canceled
+Resort Hotel,0,32,2018,December,15,BRA,Corporate,149.42,1,2,0,2,Not Canceled
+City Hotel,1,141,2017,December,3,DEU,Groups,260.37,2,4,2,6,Canceled
+Resort Hotel,1,174,2017,April,8,FRA,Direct,151.28,2,5,0,5,Canceled
+City Hotel,1,40,2018,January,28,AUS,Corporate,267.9,2,3,0,3,Canceled
+Resort Hotel,1,154,2018,July,14,USA,Corporate,55.33,4,6,3,9,Canceled
+City Hotel,0,127,2018,April,26,FRA,Online TA,108.8,2,5,0,5,Not Canceled
+City Hotel,1,248,2017,August,2,GBR,Offline TA,269.73,5,2,2,4,Canceled
+Resort Hotel,1,211,2016,January,15,ITA,Groups,93.08,5,1,2,3,Canceled
+City Hotel,0,8,2018,April,16,FRA,Direct,174.17,2,1,1,2,Not Canceled
+Resort Hotel,1,133,2018,February,1,DEU,Online TA,242.9,2,4,3,7,Canceled
+City Hotel,0,75,2018,August,27,FRA,Offline TA,91.49,5,4,3,7,Not Canceled
+City Hotel,1,160,2018,June,14,IND,Corporate,212.91,3,4,2,6,Canceled
+City Hotel,1,160,2018,January,1,DEU,Online TA,142.48,5,1,3,4,Canceled
+Resort Hotel,1,126,2017,December,6,IND,Direct,255.87,4,6,0,6,Canceled
+City Hotel,1,101,2018,March,8,CAN,Groups,133.51,3,2,0,2,Canceled
+Resort Hotel,1,142,2017,July,7,ITA,Online TA,170.73,5,3,1,4,Canceled
+City Hotel,0,21,2018,June,4,AUS,Online TA,212.09,1,1,2,3,Not Canceled
+Resort Hotel,0,58,2017,June,12,GBR,Offline TA,265.09,3,2,2,4,Not Canceled
+City Hotel,1,21,2017,April,16,CAN,Groups,72.22,4,6,1,7,Canceled
+City Hotel,1,85,2016,January,2,AUS,Corporate,180.19,2,4,0,4,Canceled
+City Hotel,0,118,2017,June,17,IND,Online TA,299.92,3,1,2,3,Not Canceled
+City Hotel,1,122,2017,July,6,ESP,Corporate,233.12,3,5,2,7,Canceled
+Resort Hotel,1,227,2018,June,10,FRA,Direct,166.8,2,1,2,3,Canceled
+Resort Hotel,1,103,2017,July,19,CAN,Offline TA,79.47,2,2,3,5,Canceled
+Resort Hotel,1,60,2017,September,20,DEU,Offline TA,160.69,3,6,0,6,Canceled
+Resort Hotel,0,289,2018,May,25,BRA,Direct,298.7,5,6,1,7,Not Canceled
+Resort Hotel,1,174,2016,June,11,IND,Online TA,67.23,1,4,2,6,Canceled
+Resort Hotel,0,249,2018,July,15,ESP,Corporate,99.04,4,6,0,6,Not Canceled
+Resort Hotel,1,129,2017,September,1,DEU,Direct,223.61,1,1,3,4,Canceled
+City Hotel,1,44,2018,December,22,CAN,Corporate,192.03,4,5,2,7,Canceled
+Resort Hotel,1,108,2017,November,22,DEU,Groups,277.58,2,3,1,4,Canceled
+Resort Hotel,1,227,2017,October,23,BRA,Corporate,245.38,1,2,2,4,Canceled
+City Hotel,1,71,2016,August,13,IND,Offline TA,161.63,5,2,3,5,Canceled
+City Hotel,1,8,2016,December,16,ESP,Corporate,154.45,2,7,3,10,Canceled
+Resort Hotel,1,254,2016,February,20,ITA,Online TA,248.47,5,5,3,8,Canceled
+Resort Hotel,0,274,2016,November,21,GBR,Offline TA,280.34,2,3,2,5,Not Canceled
+Resort Hotel,0,174,2018,December,13,IND,Corporate,218.36,3,2,2,4,Not Canceled
+Resort Hotel,1,169,2018,March,24,BRA,Groups,143.22,4,1,1,2,Canceled
+Resort Hotel,0,267,2017,April,2,GBR,Direct,299.38,5,2,2,4,Not Canceled
+Resort Hotel,1,279,2017,April,24,USA,Offline TA,255.14,4,2,3,5,Canceled
+Resort Hotel,0,237,2017,July,25,CAN,Online TA,195.61,2,4,0,4,Not Canceled
+Resort Hotel,1,265,2018,February,3,BRA,Direct,297.65,3,5,3,8,Canceled
+Resort Hotel,1,46,2018,April,22,ESP,Direct,53.51,2,1,3,4,Canceled
+City Hotel,1,253,2017,May,9,CAN,Direct,178.87,5,3,3,6,Canceled
+Resort Hotel,1,126,2017,November,18,CAN,Groups,265.53,4,3,3,6,Canceled
+City Hotel,1,293,2018,May,28,IND,Corporate,246.05,3,1,3,4,Canceled
+City Hotel,1,283,2017,August,28,USA,Online TA,249.71,4,2,3,5,Canceled
+City Hotel,0,200,2018,September,13,FRA,Online TA,70.83,5,5,0,5,Not Canceled
+City Hotel,1,60,2016,December,22,BRA,Direct,277.55,1,2,2,4,Canceled
+City Hotel,0,158,2017,June,14,CAN,Offline TA,116.33,3,6,1,7,Not Canceled
+City Hotel,0,272,2017,February,26,AUS,Online TA,89.09,3,4,3,7,Not Canceled
+City Hotel,0,12,2016,September,14,CAN,Online TA,85.16,1,1,1,2,Not Canceled
+Resort Hotel,1,193,2017,November,16,FRA,Online TA,198.5,1,2,3,5,Canceled
+City Hotel,1,264,2018,October,6,CAN,Groups,259.12,1,5,0,5,Canceled
+City Hotel,0,35,2018,December,5,BRA,Offline TA,164.65,4,3,1,4,Not Canceled
+City Hotel,0,101,2017,July,22,IND,Online TA,265.41,1,3,1,4,Not Canceled
+Resort Hotel,1,213,2016,October,25,IND,Direct,216.3,2,3,0,3,Canceled
+City Hotel,0,261,2018,April,5,ITA,Offline TA,205.67,2,1,1,2,Not Canceled
+Resort Hotel,1,297,2018,September,20,ESP,Corporate,264.27,5,3,0,3,Canceled
+City Hotel,0,3,2016,December,23,BRA,Direct,169.17,4,4,1,5,Not Canceled
+City Hotel,1,237,2018,April,26,DEU,Offline TA,200.73,2,7,1,8,Canceled
+Resort Hotel,0,88,2018,June,14,CAN,Direct,214.39,3,7,0,7,Not Canceled
+Resort Hotel,0,110,2018,February,20,AUS,Direct,91.8,1,5,2,7,Not Canceled
+Resort Hotel,0,102,2016,May,15,ITA,Online TA,52.14,4,5,3,8,Not Canceled
+Resort Hotel,1,221,2018,September,6,ITA,Groups,121.41,5,4,0,4,Canceled
+Resort Hotel,0,201,2016,February,14,FRA,Online TA,59.35,4,5,0,5,Not Canceled
+Resort Hotel,0,169,2018,September,10,CAN,Corporate,269.36,1,2,3,5,Not Canceled
+City Hotel,0,269,2017,June,25,GBR,Online TA,122.52,4,5,0,5,Not Canceled
+City Hotel,1,183,2016,January,16,FRA,Groups,92.49,1,5,1,6,Canceled
+Resort Hotel,1,92,2016,September,11,DEU,Direct,146.75,5,4,0,4,Canceled
+City Hotel,0,273,2017,November,15,USA,Offline TA,131.2,2,5,1,6,Not Canceled
+Resort Hotel,0,1,2017,October,16,ESP,Direct,72.57,5,7,2,9,Not Canceled
+City Hotel,1,161,2016,March,28,ITA,Corporate,93.21,3,6,2,8,Canceled
+City Hotel,1,33,2017,October,13,CAN,Corporate,187.82,1,1,3,4,Canceled
+Resort Hotel,0,201,2017,August,12,ESP,Groups,100.86,3,5,2,7,Not Canceled
+City Hotel,1,78,2018,August,21,FRA,Offline TA,118.57,2,4,2,6,Canceled
+City Hotel,1,40,2018,December,10,IND,Online TA,241.52,4,1,0,1,Canceled
+Resort Hotel,0,297,2017,November,25,DEU,Corporate,240.79,5,3,0,3,Not Canceled
+Resort Hotel,0,258,2017,November,8,FRA,Groups,191.75,4,6,2,8,Not Canceled
+Resort Hotel,0,264,2017,April,16,USA,Groups,233.82,4,4,2,6,Not Canceled
+Resort Hotel,0,183,2016,November,27,DEU,Corporate,198.84,4,4,2,6,Not Canceled
+City Hotel,0,184,2016,April,3,IND,Corporate,146.61,5,4,1,5,Not Canceled
+Resort Hotel,1,48,2018,May,20,USA,Groups,186.57,2,3,1,4,Canceled
+City Hotel,1,91,2017,May,14,ITA,Corporate,164.27,3,2,0,2,Canceled
+Resort Hotel,0,213,2016,March,27,DEU,Direct,187.46,3,6,2,8,Not Canceled
+City Hotel,0,54,2018,August,24,ESP,Direct,75.5,1,7,3,10,Not Canceled
+Resort Hotel,0,178,2016,October,22,ITA,Offline TA,243.96,2,4,3,7,Not Canceled
+City Hotel,0,232,2018,August,22,USA,Corporate,217.08,2,4,3,7,Not Canceled
+City Hotel,0,142,2018,May,2,USA,Corporate,117.37,1,1,1,2,Not Canceled
+Resort Hotel,1,85,2017,April,27,CAN,Direct,164.87,4,6,2,8,Canceled
+Resort Hotel,0,63,2017,October,19,BRA,Corporate,239.93,1,7,1,8,Not Canceled
+City Hotel,1,212,2016,June,25,FRA,Corporate,238.67,2,1,0,1,Canceled
+Resort Hotel,1,291,2016,February,24,AUS,Offline TA,230.43,3,2,0,2,Canceled
+Resort Hotel,1,65,2018,July,8,USA,Offline TA,116.8,4,7,1,8,Canceled
+Resort Hotel,0,171,2016,April,8,USA,Direct,253.88,3,3,2,5,Not Canceled
+City Hotel,0,192,2017,May,28,ESP,Offline TA,254.43,4,1,2,3,Not Canceled
+Resort Hotel,0,263,2018,September,9,FRA,Offline TA,153.32,4,7,1,8,Not Canceled
+Resort Hotel,0,159,2017,August,4,DEU,Groups,253.93,2,7,3,10,Not Canceled
+City Hotel,1,259,2017,August,4,IND,Offline TA,241.95,1,4,1,5,Canceled
+City Hotel,1,31,2017,March,27,USA,Online TA,68.0,2,2,2,4,Canceled
+City Hotel,0,217,2018,February,3,BRA,Online TA,219.2,3,7,1,8,Not Canceled
+City Hotel,0,208,2018,December,3,IND,Corporate,272.57,3,4,2,6,Not Canceled
+City Hotel,1,149,2017,April,24,IND,Corporate,185.95,4,3,0,3,Canceled
+Resort Hotel,0,172,2017,November,18,IND,Direct,148.3,2,7,0,7,Not Canceled
+City Hotel,0,55,2018,November,19,FRA,Direct,176.6,2,2,2,4,Not Canceled
+City Hotel,1,258,2017,April,26,GBR,Corporate,67.06,3,2,2,4,Canceled
+City Hotel,1,254,2017,April,21,AUS,Offline TA,161.95,3,6,2,8,Canceled
+City Hotel,0,53,2017,August,6,ESP,Corporate,115.87,1,2,3,5,Not Canceled
+Resort Hotel,1,119,2017,April,22,ITA,Online TA,81.92,4,1,2,3,Canceled
+City Hotel,0,2,2018,January,12,AUS,Online TA,95.82,1,7,1,8,Not Canceled
+Resort Hotel,1,106,2018,January,25,DEU,Direct,191.47,3,3,0,3,Canceled
+Resort Hotel,0,238,2016,September,8,IND,Corporate,126.62,4,1,0,1,Not Canceled
+Resort Hotel,0,271,2017,June,18,ITA,Direct,138.21,1,2,0,2,Not Canceled
+City Hotel,0,166,2017,June,20,ESP,Groups,63.96,1,1,3,4,Not Canceled
+City Hotel,1,66,2016,December,5,IND,Direct,179.31,2,6,2,8,Canceled
+City Hotel,1,168,2016,May,15,IND,Offline TA,161.77,1,4,1,5,Canceled
+Resort Hotel,1,78,2017,May,17,ITA,Online TA,180.45,3,2,1,3,Canceled
+Resort Hotel,0,258,2017,March,26,ITA,Online TA,143.49,4,2,3,5,Not Canceled
+Resort Hotel,0,254,2016,July,9,DEU,Offline TA,298.84,1,6,3,9,Not Canceled
+Resort Hotel,1,17,2016,July,23,GBR,Corporate,66.44,2,7,0,7,Canceled
+City Hotel,1,120,2017,May,12,USA,Offline TA,104.06,5,1,0,1,Canceled
+City Hotel,0,262,2017,May,10,CAN,Offline TA,176.31,2,5,2,7,Not Canceled
+Resort Hotel,1,264,2016,February,13,CAN,Offline TA,162.75,5,1,3,4,Canceled
+Resort Hotel,0,203,2018,March,21,DEU,Online TA,229.44,5,5,3,8,Not Canceled
+City Hotel,1,240,2018,December,12,ESP,Corporate,134.71,4,3,2,5,Canceled
+City Hotel,0,162,2018,December,1,BRA,Offline TA,109.02,2,7,1,8,Not Canceled
+Resort Hotel,1,23,2016,February,14,ESP,Online TA,102.39,1,7,0,7,Canceled
+Resort Hotel,1,193,2018,February,16,BRA,Online TA,208.6,5,7,0,7,Canceled
+City Hotel,1,213,2017,September,15,DEU,Offline TA,99.02,1,5,1,6,Canceled
+Resort Hotel,0,77,2018,February,17,USA,Corporate,51.12,3,1,2,3,Not Canceled
+Resort Hotel,0,297,2017,July,24,BRA,Online TA,252.92,5,3,1,4,Not Canceled
+City Hotel,1,272,2018,June,22,BRA,Online TA,66.44,1,2,2,4,Canceled
+Resort Hotel,1,128,2018,September,2,AUS,Groups,113.13,4,6,2,8,Canceled
+City Hotel,0,193,2018,April,26,AUS,Direct,263.92,2,5,0,5,Not Canceled
+City Hotel,1,117,2017,December,24,AUS,Groups,291.87,4,1,3,4,Canceled
+Resort Hotel,1,197,2017,August,10,GBR,Groups,274.86,5,7,0,7,Canceled
+City Hotel,0,190,2016,July,27,AUS,Online TA,141.52,2,3,2,5,Not Canceled
+City Hotel,1,72,2018,April,6,CAN,Corporate,281.52,2,5,3,8,Canceled
+Resort Hotel,0,27,2017,July,16,CAN,Groups,77.97,5,1,3,4,Not Canceled
+City Hotel,1,57,2016,September,11,AUS,Groups,61.85,2,4,1,5,Canceled
+Resort Hotel,1,191,2018,May,18,USA,Offline TA,162.52,4,7,2,9,Canceled
+City Hotel,0,225,2017,December,23,USA,Offline TA,105.08,2,7,1,8,Not Canceled
+City Hotel,0,224,2018,July,10,CAN,Direct,158.36,1,1,3,4,Not Canceled
+City Hotel,1,81,2016,January,11,ITA,Offline TA,252.65,2,6,1,7,Canceled
+City Hotel,0,211,2017,August,18,GBR,Groups,189.37,4,6,3,9,Not Canceled
+Resort Hotel,0,59,2016,July,10,ITA,Offline TA,190.64,5,6,0,6,Not Canceled
+City Hotel,1,279,2017,May,6,AUS,Groups,269.74,4,1,0,1,Canceled
+Resort Hotel,0,290,2016,August,2,IND,Direct,265.1,5,7,0,7,Not Canceled
+Resort Hotel,0,71,2018,September,23,ESP,Corporate,113.51,3,2,2,4,Not Canceled
+City Hotel,0,118,2017,December,4,FRA,Online TA,213.46,4,1,0,1,Not Canceled
+Resort Hotel,0,226,2017,September,12,ESP,Online TA,161.15,5,2,3,5,Not Canceled
+City Hotel,1,148,2018,April,3,ESP,Online TA,76.12,1,1,1,2,Canceled
+Resort Hotel,0,284,2018,January,2,ESP,Online TA,239.94,5,3,0,3,Not Canceled
+City Hotel,1,59,2016,March,24,ESP,Groups,172.37,4,4,2,6,Canceled
+City Hotel,0,191,2016,August,7,GBR,Direct,197.67,5,4,1,5,Not Canceled
+City Hotel,1,126,2018,July,26,ITA,Online TA,149.41,3,2,2,4,Canceled
+Resort Hotel,0,39,2016,September,5,ITA,Groups,203.44,2,2,1,3,Not Canceled
+City Hotel,0,154,2018,July,13,CAN,Offline TA,295.49,4,1,2,3,Not Canceled
+Resort Hotel,0,222,2016,April,2,DEU,Online TA,219.46,2,6,3,9,Not Canceled
+City Hotel,0,37,2018,October,4,GBR,Offline TA,261.31,3,3,1,4,Not Canceled
+City Hotel,1,230,2017,September,4,GBR,Online TA,51.26,1,5,2,7,Canceled
+City Hotel,0,296,2017,February,19,DEU,Corporate,82.1,1,2,0,2,Not Canceled
+Resort Hotel,0,130,2018,December,7,USA,Corporate,54.21,4,1,3,4,Not Canceled
+Resort Hotel,1,127,2018,September,13,IND,Corporate,220.58,1,1,1,2,Canceled
+Resort Hotel,0,271,2017,January,26,IND,Corporate,114.79,4,7,2,9,Not Canceled
+Resort Hotel,1,6,2018,August,28,IND,Corporate,205.55,4,6,1,7,Canceled
+Resort Hotel,1,205,2016,November,17,DEU,Corporate,275.15,4,3,1,4,Canceled
+Resort Hotel,0,82,2017,April,28,BRA,Offline TA,54.2,4,6,1,7,Not Canceled
+Resort Hotel,0,296,2018,January,11,IND,Corporate,142.7,1,6,0,6,Not Canceled
+Resort Hotel,0,38,2016,August,19,DEU,Direct,154.45,1,5,3,8,Not Canceled
+City Hotel,0,96,2016,November,22,AUS,Offline TA,257.72,4,5,0,5,Not Canceled
+City Hotel,0,166,2017,February,23,DEU,Groups,296.16,1,5,1,6,Not Canceled
+City Hotel,0,260,2018,April,24,CAN,Online TA,93.73,3,4,3,7,Not Canceled
+City Hotel,1,67,2017,July,15,ITA,Offline TA,107.11,1,2,1,3,Canceled
+City Hotel,1,180,2018,January,11,GBR,Online TA,232.09,2,1,1,2,Canceled
+City Hotel,0,28,2016,May,17,GBR,Corporate,124.55,3,7,3,10,Not Canceled
+City Hotel,0,38,2017,December,7,IND,Direct,51.63,2,1,3,4,Not Canceled
+City Hotel,1,268,2018,February,1,USA,Offline TA,70.66,3,1,0,1,Canceled
+Resort Hotel,1,205,2017,October,27,USA,Corporate,143.61,1,3,2,5,Canceled
+Resort Hotel,1,112,2017,March,26,DEU,Online TA,288.92,2,2,3,5,Canceled
+Resort Hotel,0,153,2017,July,2,ITA,Offline TA,291.98,5,6,0,6,Not Canceled
+City Hotel,1,29,2018,June,25,GBR,Groups,190.13,3,1,0,1,Canceled
+City Hotel,0,167,2018,December,17,GBR,Corporate,61.85,4,7,3,10,Not Canceled
+Resort Hotel,0,50,2016,March,14,DEU,Online TA,75.67,2,3,0,3,Not Canceled
+Resort Hotel,0,33,2016,November,19,AUS,Corporate,216.02,4,1,3,4,Not Canceled
